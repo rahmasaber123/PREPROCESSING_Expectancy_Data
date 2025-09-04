@@ -88,9 +88,7 @@ Add tests and modularize reusable preprocessing functions.
 ## How to Run (Reproduce)
 1. Clone the repo and place the dataset in the `data/` folder or update the path in the notebook.  
 
+# Author
 
-
-#Author
-
-##RAHMA SABER — Data Preprocessing & EDA
+## RAHMA SABER — Data Preprocessing & EDA
 
